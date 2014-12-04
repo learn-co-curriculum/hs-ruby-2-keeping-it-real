@@ -6,7 +6,7 @@ type: culture
 ---
 
 ## Meet Matz
-<img src="https://s3.amazonaws.com/after-school-assets/matz.jpg" align="right" hspace=10 width="400px"> The creator of Ruby is [Yukihiro Matsumoto](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto). He says: "Ruby is designed to make programmers happy." That is one of the reasons why Rubyists promote MINASWAN - "Matz is Nice And So We Are Nice". As a Rubyist it is now your job to continue to promote positivity and goodwill in the Ruby community.
+<img src="https://s3.amazonaws.com/after-school-assets/matz.jpg" align="right" hspace=10 width="400px"> The creator of Ruby is [Yukihiro Matsumoto](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto). He says: "Ruby is designed to make programmers happy." That is one of the reasons why Rubyists promote MINSWAN - "Matz is Nice, So We Are Nice". As a Rubyist it is now your job to continue to promote positivity and goodwill in the Ruby community.
 
 Other Rubyists of note:
 
