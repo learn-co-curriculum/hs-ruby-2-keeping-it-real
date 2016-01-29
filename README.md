@@ -9,4 +9,4 @@ Other Rubyists of note:
 * [Sandi Metz](http://www.sandimetz.com/) - Famous for writing the [POODR book](http://www.poodr.com/) and for inspirational wisdom such as "Grit, get things done. It is the act of doing that has value, not whatever it is the world tells you once you're finished" and "You'll never be as stupid as you are right now". Words to live by.
 * [why the lucky stiff](http://en.wikipedia.org/wiki/Why_the_lucky_stiff) - The source behind [Try Ruby](http://tryruby.org/levels/1/challenges/0) and writer of [Why's (poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 
-<a href='https://learn.co/lessons/hs-ruby-2-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-2-keeping-it-real' title='Meet Matz'>Meet Matz</a> on Learn.co and start learning to code for free.</p>
